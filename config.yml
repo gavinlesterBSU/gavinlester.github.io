@@ -1,2 +1,8 @@
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+![Alt text](your-image.png){:width="300px"}
