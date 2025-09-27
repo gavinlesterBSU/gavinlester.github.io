@@ -11,20 +11,19 @@ Above is me wake surfing!
 - video games
 - coding
 
-  **WEBSITES THAT I LIKE**
-  - https://www.boredbutton.com/
-  - https://www.coolmathgames.com/
+**WEBSITES THAT I LIKE**
+- https://www.boredbutton.com/
+- https://www.coolmathgames.com/
  
+**ODE TO GITHUB**
+  O, github, O github  
+  how thou dost allure me  
+  To project and tinker  
+  through sites and and coding  
 
-  **ODE TO GITHUB**
-  O, github, O github
-  how thou dost allure me
-  To project and tinker
-  through sites and and coding
-
-  O, github, O github
-  to use you is great
-  O, github, O github
-  For once,
-  This assignment won't be late
+  O, github, O github  
+  to use you is great  
+  O, github, O github  
+  For once,  
+  This assignment won't be late  
 ![baby-cat-dancing-png](https://github.com/user-attachments/assets/6655bd44-1e18-4e46-bcce-af21ed5c845b)
