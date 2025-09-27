@@ -7,16 +7,16 @@ the link to my website is [gavin's webpage](https://gavinlesterBSU.github.io) (t
 Above is me wake surfing!
 
 
-##**INTERESTS:**
+## **INTERESTS:**
 - video games
 - coding
 - [THE ORB](https://orb.farm/)
 
-##**WEBSITES THAT I LIKE**
+## **WEBSITES THAT I LIKE**
 - [bored button](https://www.boredbutton.com/)
 - [Cool Math Games!](https://www.coolmathgames.com/)
  
-##**ODE TO GITHUB**  
+## **ODE TO GITHUB**  
 *O, github, O github*  
 *how thou dost allure me*  
 *To project and tinker*  
