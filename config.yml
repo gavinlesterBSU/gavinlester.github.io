@@ -1,8 +1,10 @@
 
 theme: jekyll-theme-dinky
 
-markdown: kramdown
-kramdown:
-  parse_block_html: true
+defaults:
+  - scope:
+      path: "" # all files
+      type: "posts"
+    values:
+      image_width: 100
 
-![Alt text](your-image.png){:width="100px"}
