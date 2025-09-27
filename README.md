@@ -1,6 +1,6 @@
 # My Student Page:
 My own github repository to use for a college assignment.
-the link to my website is https://gavinlesterBSU.github.io
+the link to my website is [gavin's webpage]{https://gavinlesterBSU.github.io}
 
 <img width="300" height="337" alt="smallgavin wakeboard" src="https://github.com/user-attachments/assets/bc3ea68d-ad89-46b4-a00e-a62ca284b5fd" />
 
@@ -12,8 +12,8 @@ Above is me wake surfing!
 - coding
 
 **WEBSITES THAT I LIKE**
-- https://www.boredbutton.com/
-- https://www.coolmathgames.com/
+- [bored button]{https://www.boredbutton.com/}
+- [Cool Math Games!]{https://www.coolmathgames.com/}
  
 **ODE TO GITHUB**  
 *O, github, O github*  
